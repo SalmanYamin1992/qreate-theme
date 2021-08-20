@@ -1,0 +1,478 @@
+/*--------------------------------------------------------------
+# Sidebar
+--------------------------------------------------------------*/
+
+/* search */
+
+.search-form input:focus,
+.search-form input[type="text"]:focus,
+.search-form input[type="email"]:focus,
+.search-form input[type="search"]:focus,
+.search-form input[type="password"]:focus {
+	border-color: var(--color-theme-primary);
+}
+
+.widget .search-form input {
+	background: var(--global-body-bgcolor);
+	height: 48px;
+	line-height: 48px;
+	border-bottom: 3px solid var(--color-theme-secondary);
+}
+
+.sidebar-service-right .widget .search-form input {
+	background: var(--global-body-lightcolor);
+}
+
+.search-form {
+	position: relative;
+}
+
+.search-form label {
+	display: inline-block;
+    margin: 0;
+    padding: 0;
+    width: 0;
+    height: 0;
+}
+
+.search-form .search-submit {
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 48px;
+	width: 48px;
+	color: var(--color-theme-white);
+	cursor: pointer;
+	font-size: var(--font-size-body);
+	
+	border: none;
+	outline: none;
+	box-shadow: none;
+	transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+}
+
+.search-form .search-submit .screen-reader-text {
+	display: none;
+}
+
+/*SideBar - Recent Comments*/
+
+.qreate-widget-menu .qreate-post li a {
+	padding-left: 0;
+	letter-spacing: var(--letter-spacing);
+	color: var(--white-light-color);
+}
+
+.widget.widget_recent_comments #recentcomments li.recentcomments a {
+	color: var(--color-theme-primary);
+	padding-left: 0;
+}
+
+.widget.widget_recent_comments #recentcomments li.recentcomments span a {
+	color: var(--global-font-color);
+	font-weight: var(--font-weight-bold);
+}
+
+.qreate-widget-menu .qreate-post li a::before {
+	display: none;
+}
+
+.widget.widget_recent_comments #recentcomments li.recentcomments a::before {
+	display: none;
+}
+
+.widget.widget_recent_comments #recentcomments li.recentcomments a:hover {
+	color: var(--color-theme-primary);
+	text-decoration: underline !important;
+	padding-left: 0;
+}
+
+/* SideBar Calendar */
+
+.widget_calendar table caption {
+	caption-side: inherit;
+	color: var(--color-theme-secondary);
+	text-transform: uppercase;
+}
+
+.wp-block-calendar table caption {
+	caption-side: inherit;
+	text-align: center;
+	color: var(--color-theme-white);
+	background: var(--color-theme-secondary);
+	text-transform: uppercase;
+}
+
+.calendar_wrap .wp-calendar-table caption {
+	text-transform: uppercase;
+	background: var(--color-theme-secondary);
+	color: var(--color-theme-white);
+	caption-side: inherit;
+	text-align: center;
+}
+
+.widget_calendar table#wp-calendar {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 0;
+	margin-top: 0;
+	background: var(--global-body-bgcolor);
+}
+
+.widget_calendar .calendar_wrap td#today {
+	background: var(--color-theme-secondary);
+	color: var(--color-theme-white);
+}
+
+.widget_calendar .calendar_wrap td#today a {
+	color: var(--color-theme-white);
+}
+
+.widget_calendar .calendar_wrap table th {
+	background: var(--color-theme-white);
+	color: var(--color-theme-secondary);
+}
+
+.wp-block-calendar table th {
+	background: transparent;
+	color: var(--color-theme-primary);
+	font-weight: bold;
+}
+
+.widget_calendar .calendar_wrap table th,
+.widget_calendar .calendar_wrap table td {
+	padding: 8px;
+	text-align: center;
+}
+
+.wp-block-calendar tbody td,
+.wp-block-calendar th {
+	border-color: var(--border-color-light);
+	color: var(--global-font-color);
+}
+
+.widget_calendar .calendar_wrap table th {
+	background: var(--global-body-bgcolor);
+	color: var(--color-theme-primary);
+}
+
+.widget_calendar table#wp-calendar {
+	margin-bottom: 10px;
+}
+
+.wp-calendar-nav {
+	justify-content: space-between;
+	display: flex;
+	text-transform: uppercase;
+}
+
+.widget_calendar table#wp-calendar {
+	margin-bottom: 10px;
+}
+
+/*---------------  Categories side widget  ------------------------*/
+
+.widget_categories ul li span,
+.widget.widget_archive ul li span.archiveCount {
+	border-radius: var(--border-radius);
+	float: right;
+	color: var(--color-theme-white);
+	background: var(--color-theme-primary);
+	width: 20px;
+	height: 20px;
+	text-align: center;
+	line-height: 20px;
+	font-size: var(--font-size-small);
+}
+
+.download-item li {
+	display: block;
+	background: var(--global-white-light-color);
+	padding-bottom: 0 !important;
+}
+
+.download-item li i {
+	background: var(--color-theme-primary);
+	padding: 15px;
+	color: var(--color-theme-white);
+	font-size: 24px;
+}
+
+.widget.get-file {
+	margin-bottom: 15px;
+	padding: 0;
+	background: transparent;
+}
+
+.widget.get-file a:hover {
+	color: var(--color-theme-primary);
+}
+
+.widget.get-file a {
+	text-decoration: none;
+}
+
+/*-----------    Blog - SideBar  -------------------------*/
+
+.qreate-post-sidebar {
+	height: 100%;
+}
+
+.testimonail-widget-menu.widget {
+	padding: 0;
+	background: transparent;
+}
+
+/* SideBar Categories List */
+
+.widget_categories ul li a,
+.widget_archive ul li a {
+	color: var(--global-font-color);
+}
+
+/* SideBar Archives Dropdown */
+
+.widget select,
+.widget.widget_archive select,
+.widget_categories select {
+	border: none;
+	outline: none;
+	background-color: var(--global-body-lightcolor);
+}
+
+/* Meta Sidebar - widget RSS*/
+
+.widget.widget_rss ul li {
+	margin-bottom: 20px;
+}
+
+.widget.widget_rss ul li:last-child {
+	margin-bottom: 0;
+}
+
+.qreate .widget.widget_tag_cloud ul li a {
+	border: none;
+}
+
+.widget.widget_rss ul li a {
+	padding-left: 0;
+	font-size: var(--font-size-h5);
+	color: var(--global-font-title);
+	font-family: var(--highlight-font-family);
+	
+}
+
+.widget.widget_rss ul li a:hover {
+	color: var(--color-theme-secondary);
+}
+
+.widget.widget_rss ul li a::before {
+	display: none;
+}
+
+.widget.widget_rss ul li .rss-date {
+	text-transform:uppercase;
+	display: inline-block;
+	width: 100%;
+	margin: 5px 0;
+	letter-spacing: var(--letter-spacing);
+	color: var(--color-theme-secondary);
+	font-size: var(--font-size-normal);
+}
+
+.widget.widget_rss ul li cite {
+	margin-top: 5px;
+	display: inline-block;
+	width: 100%;
+}
+
+/*widget Nav Menu*/
+
+.widget.widget_nav_menu ul li,
+.widget ul.menu li {
+	margin-bottom: 0;
+}
+
+.widget.widget_nav_menu ul li .sub-menu,
+.widget ul.menu li .sub-menu {
+	display: block !important;
+	padding-left: 20px;
+}
+
+.widget.widget_nav_menu ul li a,
+.widget ul.menu li a {
+	padding: 10px 0 10px 15px;
+	display: inline-block;
+	width: 100%;
+}
+
+.widget.widget_nav_menu ul li i,
+.widget ul.menu li i {
+	display: none;
+}
+
+.widget.widget_nav_menu ul li a::before,
+.widget ul.menu li a::before {
+	top: 25px;
+}
+
+.widget.widget_nav_menu #menu-service-menu li.current-menu-item a {
+	background: var(--color-theme-primary);
+	color: var(--global-font-title);
+}
+
+.qreate-widget-menu .qreate-post li a.date-widget {
+	color: var(--color-theme-primary);
+	margin-bottom: 10px;
+	display: block;
+	font-size: var(--font-size-small);
+	font-weight: 700;
+}
+
+.qreate-widget-menu .post-img .post-blog a.new-link h6 {
+	color: var(--global-font-title);
+	line-height: 23px;
+	display: block;
+	overflow: hidden;
+}
+
+/* SideBar - widget Recent Entries*/
+
+.widget_recent_entries ul li .post-date {
+	color: var(--color-theme-secondary);
+}
+
+.post-img-holder
+{
+    width: 100px;
+    margin-right: 20px;
+    flex: none;
+    line-height: 0;
+    margin-bottom: 0;
+}
+
+.widget .qreate-widget-menu .qreate_post_title
+{
+ font-family: var(--global-font-family);
+ border-bottom: 2px solid var(--color-theme-secondary);
+ padding-bottom: 8px;
+}
+
+/*SideBar - Tags*/
+
+.widget_tag_cloud ul {
+	margin: 0;
+	padding: 0;
+}
+
+.widget_tag_cloud ul li {
+	padding: 0;
+	display: inline-block;
+	margin: 5px 5px 5px 0;
+}
+
+.widget.widget_tag_cloud ul li a {
+	background:transparent;
+    padding:5px 22px 5px 5px;
+    border-radius: 0px;
+	font-size: var(--font-size-small);
+	letter-spacing: var(--letter-spacing);
+    color: var(--global-font-color);
+	transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+	position: relative;
+}
+
+.widget.widget_tag_cloud ul li a span{transition: none;}
+
+.widget ul li:last-child a:after{
+	display: none;
+}
+
+.widget.widget_tag_cloud ul li a:hover {
+    background: transparent;
+    color: var(--color-theme-secondary);
+}
+
+.widget.widget_tag_cloud ul li a::before {
+	display: none;
+}
+
+.sidebar-service-left .widget_nav_menu ul.menu li.current-menu-item a,
+.sidebar-service-left .widget_nav_menu ul.menu li:hover a {
+	color: var(--color-theme-white);
+	background: var(--color-theme-primary);
+}
+
+.sidebar-service-left .widget_nav_menu ul.menu li {
+	margin-bottom: 2px;
+	border: none;
+	padding: 0;
+}
+
+.sidebar-service-left .widget_nav_menu ul.menu li:last-child {
+	margin-bottom: 0;
+}
+
+.sidebar-service-left .widget_nav_menu ul.menu li a,
+.sidebar-service-left .widget.get-file a {
+	background: var(--global-white-light-color);
+	color: var(--color-theme-secondary);
+	text-transform: capitalize;
+}
+
+/* Text widget image */
+
+.shap-main.primary-color img {
+	width: 100%;
+	position: relative;
+}
+
+.shap-main.primary-color {
+	margin-top: 30px;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+.shap-main.primary-color::before {
+	background: var(--color-theme-primary);
+	left: 0;
+	top: 0;
+	width: 95%;
+	height: 94%;
+}
+
+.post-blog .list-inline-item a
+{
+	text-transform: uppercase;
+}
+
+@media ( max-width: 1024px ) { 
+	.shap-main.primary-color{
+		padding-left:0;
+		padding-top:0;
+	}
+}
+
+@media ( max-width: 479px ) { 
+.widget.widget_nav_menu ul li .sub-menu,
+.widget ul.menu li .sub-menu{
+	padding-left:10px;
+}
+}
+
+@media ( max-width: 360px ) {
+	.widget_calendar .calendar_wrap table th,
+	.widget_calendar .calendar_wrap table td {
+	padding: 8px 4px;
+	text-align: center;
+	}
+}

@@ -1,0 +1,2153 @@
+# Copyright (C) 2021 Qreate
+# This file is distributed under the same license as the Qreate package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Qreate\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Qreate\n"
+"Report-Msgid-Bugs-To: Qreate\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../qreate/comments.php:42
+msgid " Comments"
+msgstr ""
+
+#: ../qreate/comments.php:40
+msgid " Comment"
+msgstr ""
+
+#: ../qreate/comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: ../qreate/comments.php:62, ../qreate/comments.php:72
+msgid "Post Comment"
+msgstr ""
+
+#: ../qreate/comments.php:63
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: ../qreate/footer.php:45
+msgid "top"
+msgstr ""
+
+#: ../qreate/header.php:75, ../qreate/header.php:70
+msgid "loader"
+msgstr ""
+
+#: ../qreate/header.php:87
+msgid "Skip to content"
+msgstr ""
+
+#: ../qreate/searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: ../qreate/sidebar.php:19
+msgid "Asides"
+msgstr ""
+
+#: ../qreate/taxonomy-project-categories.php:35
+msgid "image"
+msgstr ""
+
+#. translators: 1: required WP version number, 2: required PHP version number, 3: available WP version number, 4: available PHP version number
+#: ../qreate/inc/back-compat.php:25
+msgid "Qreate requires at least WordPress version %1$s and PHP version %2$s. You are running versions %3$s and %3$s respectively. Please update and try again."
+msgstr ""
+
+#. translators: 1: required WP version number, 2: available WP version number
+#: ../qreate/inc/back-compat.php:30
+msgid "Qreate requires at least WordPress version %1$s. You are running version %2$s. Please update and try again."
+msgstr ""
+
+#. translators: 1: required PHP version number, 2: available PHP version number
+#: ../qreate/inc/back-compat.php:35
+msgid "Qreate requires at least PHP version %1$s. You are running version %2$s. Please update and try again."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:346
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:347
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../qreate/inc/class-tgm-plugin-activation.php:349
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../qreate/inc/class-tgm-plugin-activation.php:351
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:352
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:353
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:359
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:365
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:371
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:377
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:383
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:389
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:394
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:399
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:404
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:405, ../qreate/inc/class-tgm-plugin-activation.php:924, ../qreate/inc/class-tgm-plugin-activation.php:2630, ../qreate/inc/class-tgm-plugin-activation.php:3677
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:406, ../qreate/inc/class-tgm-plugin-activation.php:3256
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:407, ../qreate/inc/class-tgm-plugin-activation.php:3049
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: ../qreate/inc/class-tgm-plugin-activation.php:409
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../qreate/inc/class-tgm-plugin-activation.php:411
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: ../qreate/inc/class-tgm-plugin-activation.php:413
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:414
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:415
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:416
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:619
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:620
+msgid "Update Required"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:1034
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:1034, ../qreate/inc/class-tgm-plugin-activation.php:1031
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:1031
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:1218, ../qreate/inc/class-tgm-plugin-activation.php:3045
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: ../qreate/inc/class-tgm-plugin-activation.php:2079
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2370
+msgid "Required"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2373
+msgid "Recommended"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2389
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2392
+msgid "External Source"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2395
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2412
+msgid "Not Installed"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2418
+msgid "Active"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2416
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2430
+msgid "Update recommended"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2427
+msgid "Requires Update"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2424
+msgid "Required Update not Available"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: ../qreate/inc/class-tgm-plugin-activation.php:2439
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../qreate/inc/class-tgm-plugin-activation.php:2485
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../qreate/inc/class-tgm-plugin-activation.php:2489
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../qreate/inc/class-tgm-plugin-activation.php:2493
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../qreate/inc/class-tgm-plugin-activation.php:2497
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2579
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2587
+msgid "Installed version:"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2595
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2607
+msgid "Available version:"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2630
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2644
+msgid "Plugin"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2645
+msgid "Source"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2646
+msgid "Type"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2650
+msgid "Version"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2651
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../qreate/inc/class-tgm-plugin-activation.php:2705
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../qreate/inc/class-tgm-plugin-activation.php:2711
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2700
+msgid "Install %2$s"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2781
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2814
+msgid "Install"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2820, ../qreate/woocommerce/cart/shipping-calculator.php:98
+msgid "Update"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2823
+msgid "Activate"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2856
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2854
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2899
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:2897
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:3005
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:3031
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:3255
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: ../qreate/inc/class-tgm-plugin-activation.php:3598
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../qreate/inc/class-tgm-plugin-activation.php:3600
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:3612
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../qreate/inc/class-tgm-plugin-activation.php:3614
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:3614, ../qreate/inc/class-tgm-plugin-activation.php:3606
+msgid "Show Details"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:3614, ../qreate/inc/class-tgm-plugin-activation.php:3606
+msgid "Hide Details"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:3615
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../qreate/inc/class-tgm-plugin-activation.php:3617
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:3604
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:3606
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:3607
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:3609
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../qreate/inc/class-tgm-plugin-activation.php:3595
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../qreate/inc/import.php:6
+msgid "All Content"
+msgstr ""
+
+#: ../qreate/inc/import.php:18
+msgid "DEMO IMPORT REQUIREMENTS: Memory Limit of 128 MB and max execution time (php time limit) of 300 seconds. "
+msgstr ""
+
+#: ../qreate/inc/import.php:18
+msgid "Based on your INTERNET SPEED it could take 5 to 25 minutes. "
+msgstr ""
+
+#. translators: 1: classname/type of the variable, 2: interface name
+#: ../qreate/inc/Template_Tags.php:54
+msgid "The theme templating component %1$s does not implement the %2$s interface."
+msgstr ""
+
+#. translators: %s: template tag name
+#: ../qreate/inc/Template_Tags.php:81
+msgid "The template tag %s does not exist."
+msgstr ""
+
+#. translators: 1: template tag method name, 2: component class name
+#: ../qreate/inc/Template_Tags.php:110
+msgid "The template tag method %1$s registered by theme component %2$s must either be a callable or an array."
+msgstr ""
+
+#. translators: 1: template tag method name, 2: component class name
+#: ../qreate/inc/Template_Tags.php:121
+msgid "The template tag method %1$s registered by theme component %2$s conflicts with an already registered template tag of the same name."
+msgstr ""
+
+#. translators: 1: classname/type of the variable, 2: interface name
+#: ../qreate/inc/Theme.php:57
+msgid "The theme component %1$s does not implement the %2$s interface."
+msgstr ""
+
+#. translators: %s: slug
+#: ../qreate/inc/Theme.php:120
+msgid "No theme component with the slug %s exists."
+msgstr ""
+
+#: ../qreate/woocommerce/share.php:47
+msgid "Facebook"
+msgstr ""
+
+#: ../qreate/woocommerce/share.php:56
+msgid "Twitter"
+msgstr ""
+
+#: ../qreate/woocommerce/share.php:65
+msgid "Pinterest"
+msgstr ""
+
+#: ../qreate/woocommerce/share.php:74, ../qreate/inc/Redux_Framework/Options/Contact.php:47
+msgid "Email"
+msgstr ""
+
+#: ../qreate/woocommerce/share.php:83
+msgid "WhatsApp"
+msgstr ""
+
+#: ../qreate/woocommerce/share.php:94
+msgid "(Now"
+msgstr ""
+
+#: ../qreate/woocommerce/share.php:94
+msgid "copy"
+msgstr ""
+
+#: ../qreate/woocommerce/share.php:94
+msgid "this wishlist link and share it anywhere)"
+msgstr ""
+
+#: ../qreate/woocommerce/wishlist-view-header.php:43
+msgid "Edit title"
+msgstr ""
+
+#: ../qreate/woocommerce/wishlist-view.php:80
+msgid "Product name"
+msgstr ""
+
+#: ../qreate/woocommerce/wishlist-view.php:88
+msgid "Unit price"
+msgstr ""
+
+#: ../qreate/woocommerce/wishlist-view.php:97, ../qreate/woocommerce/cart/cart.php:32, ../qreate/woocommerce/cart/cart.php:104
+msgid "Quantity"
+msgstr ""
+
+#: ../qreate/woocommerce/wishlist-view.php:106
+msgid "Stock status"
+msgstr ""
+
+#: ../qreate/woocommerce/wishlist-view.php:124
+msgid "Arrange"
+msgstr ""
+
+#: ../qreate/woocommerce/wishlist-view.php:326
+msgid "No products added to the wishlist"
+msgstr ""
+
+#: ../qreate/woocommerce/wishlist-view.php:161, ../qreate/woocommerce/wishlist-view.php:302
+msgid "Remove this product"
+msgstr ""
+
+#: ../qreate/woocommerce/wishlist-view.php:236
+msgid "Out of stock"
+msgstr ""
+
+#: ../qreate/woocommerce/wishlist-view.php:236
+msgid "In Stock"
+msgstr ""
+
+#: ../qreate/woocommerce/wishlist-view.php:250
+msgid "Added on: %s"
+msgstr ""
+
+#: ../qreate/woocommerce/wishlist-view.php:290
+msgid "Move to another list &rsaquo;"
+msgstr ""
+
+#: ../qreate/woocommerce/wishlist-view.php:269
+msgid "Move"
+msgstr ""
+
+#: ../qreate/woocommerce/wishlist-view.php:303
+msgid "Remove"
+msgstr ""
+
+#: ../qreate/inc/Accessibility/Component.php:66
+msgid "Expand child menu"
+msgstr ""
+
+#: ../qreate/inc/Accessibility/Component.php:67
+msgid "Collapse child menu"
+msgstr ""
+
+#: ../qreate/inc/Comments/Component.php:152
+msgid "New comment(s)"
+msgstr ""
+
+#: ../qreate/inc/Comments/Component.php:197
+msgid "(Edit)"
+msgstr ""
+
+#: ../qreate/inc/Comments/Component.php:222, ../qreate/woocommerce/myaccount/my-address.php:53
+msgid "Edit"
+msgstr ""
+
+#: ../qreate/inc/Comments/Component.php:235
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../qreate/inc/Common/Component.php:189
+msgid "%s"
+msgstr ""
+
+#: ../qreate/inc/Common/Component.php:427, ../qreate/inc/Common/Component.php:424, ../qreate/inc/Common/Component.php:510, ../qreate/inc/Redux_Framework/Options/Blog.php:21
+msgid "Blog"
+msgstr ""
+
+#: ../qreate/inc/Common/Component.php:421
+msgid "Oops! That page can not be found."
+msgstr ""
+
+#: ../qreate/inc/Common/Component.php:415, ../qreate/template-parts/content/page_header.php:22
+msgid "Nothing Found"
+msgstr ""
+
+#: ../qreate/inc/Common/Component.php:413
+msgid "Search Results for:"
+msgstr ""
+
+#: ../qreate/inc/Common/Component.php:479
+msgid "banner"
+msgstr ""
+
+#: ../qreate/inc/Common/Component.php:487, ../qreate/template-parts/breadcrumb/breadcrumb.php:23
+msgid "Home"
+msgstr ""
+
+#: ../qreate/inc/Common/Component.php:577
+msgid "Error 404"
+msgstr ""
+
+#: ../qreate/inc/Common/Component.php:575
+msgid "Articles posted by : "
+msgstr ""
+
+#: ../qreate/inc/Common/Component.php:571
+msgid "Posts tagged"
+msgstr ""
+
+#: ../qreate/inc/Common/Component.php:516
+msgid "Search results for : "
+msgstr ""
+
+#: ../qreate/inc/Common/Component.php:514
+msgid "Archive by category : "
+msgstr ""
+
+#: ../qreate/inc/Common/Component.php:581
+msgid "Page"
+msgstr ""
+
+#: ../qreate/inc/Customizer/Component.php:78
+msgid "Theme Options"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:65, ../qreate/inc/Nav_Menus/Component.php:67
+msgid "Primary"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:70
+msgid "Secondary"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:75
+msgid "Red"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:80
+msgid "Green"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:85
+msgid "Blue"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:90
+msgid "Yellow"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:95
+msgid "Black"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:100
+msgid "Grey"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:105
+msgid "White"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:110
+msgid "Dusty daylight"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:115
+msgid "Dusty sun"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:132
+msgid "Small"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:133
+msgid "S"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:138
+msgid "Medium"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:139
+msgid "M"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:144
+msgid "Large"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:145
+msgid "L"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:150
+msgid "Larger"
+msgstr ""
+
+#: ../qreate/inc/Editor/Component.php:151
+msgid "XL"
+msgstr ""
+
+#: ../qreate/inc/Footer/Component.php:93
+msgid "text-left"
+msgstr ""
+
+#: ../qreate/inc/Footer/Component.php:94
+msgid "text-right"
+msgstr ""
+
+#: ../qreate/inc/Footer/Component.php:95
+msgid "text-center"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Component.php:59, ../qreate/inc/Redux_Framework/Component.php:60
+msgid "Qreate"
+msgstr ""
+
+#: ../qreate/inc/Sidebars/Component.php:76
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../qreate/inc/Sidebars/Component.php:78
+msgid "Add widgets here."
+msgstr ""
+
+#. translators: %s: stylesheet handle
+#: ../qreate/inc/Styles/Component.php:234
+msgid "Invalid theme stylesheet handle: %s"
+msgstr ""
+
+#: ../qreate/inc/TGM/Component.php:53
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../qreate/inc/TGM/Component.php:59
+msgid "Iqonic Extensions"
+msgstr ""
+
+#: ../qreate/inc/TGM/Component.php:65
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: ../qreate/inc/TGM/Component.php:70
+msgid "Elementor"
+msgstr ""
+
+#: ../qreate/inc/TGM/Component.php:75
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../qreate/inc/TGM/Component.php:80
+msgid "Mailchimp"
+msgstr ""
+
+#: ../qreate/inc/TGM/Component.php:85
+msgid "One Click Demo Import"
+msgstr ""
+
+#: ../qreate/inc/TGM/Component.php:90
+msgid "WooCommerce"
+msgstr ""
+
+#: ../qreate/inc/TGM/Component.php:96
+msgid "YITH WooCommerce Wishlist "
+msgstr ""
+
+#: ../qreate/template-parts/content/entry-attachment.php:33
+msgid "Previous:"
+msgstr ""
+
+#: ../qreate/template-parts/content/entry-attachment.php:43
+msgid "Next:"
+msgstr ""
+
+#: ../qreate/template-parts/content/entry-attachment.php:49
+msgid "Post navigation"
+msgstr ""
+
+#: ../qreate/template-parts/content/entry.php:29, ../qreate/template-parts/content/entry_page.php:16
+msgid "Pages:"
+msgstr ""
+
+#: ../qreate/template-parts/content/entry_actions.php:14
+msgid "Read More"
+msgstr ""
+
+#: ../qreate/template-parts/content/entry_header.php:22
+msgid "By "
+msgstr ""
+
+#. translators: %s: post parent title
+#: ../qreate/template-parts/content/entry_meta.php:69
+msgctxt "post parent"
+msgid "In %s"
+msgstr ""
+
+#. translators: %s: post parent title
+#: ../qreate/template-parts/content/entry_meta.php:72
+msgctxt "post parent"
+msgid "in %s"
+msgstr ""
+
+#: ../qreate/template-parts/content/error-404.php:36, ../qreate/template-parts/content/error-404.php:30, ../qreate/inc/Redux_Framework/Options/FourZeroFour.php:24
+msgid "404"
+msgstr ""
+
+#: ../qreate/template-parts/content/error-404.php:50, ../qreate/inc/Redux_Framework/Options/FourZeroFour.php:44
+msgid "Oops! This Page is Not Found."
+msgstr ""
+
+#: ../qreate/template-parts/content/error-404.php:60, ../qreate/inc/Redux_Framework/Options/FourZeroFour.php:50
+msgid "The requested page does not exist."
+msgstr ""
+
+#: ../qreate/template-parts/content/error-404.php:67
+msgid "Back to Home"
+msgstr ""
+
+#: ../qreate/template-parts/content/error-offline.php:14
+msgid "Oops! It looks like you&#8217;re offline."
+msgstr ""
+
+#: ../qreate/template-parts/content/error.php:43
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../qreate/template-parts/content/error.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: ../qreate/template-parts/content/error.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. translators: %s: search query
+#: ../qreate/template-parts/content/page_header.php:41
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../qreate/template-parts/content/page_header.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../qreate/template-parts/footer/info.php:56, ../qreate/template-parts/footer/info.php:62
+msgid "https://themeforest.net/user/iqonicthemes/portfolio/"
+msgstr ""
+
+#: ../qreate/template-parts/footer/info.php:56, ../qreate/template-parts/footer/info.php:62
+msgid "© 2021"
+msgstr ""
+
+#: ../qreate/template-parts/footer/info.php:56, ../qreate/template-parts/footer/info.php:62
+msgid " qreate "
+msgstr ""
+
+#: ../qreate/template-parts/footer/info.php:56, ../qreate/template-parts/footer/info.php:62
+msgid ". All Rights Reserved."
+msgstr ""
+
+#: ../qreate/template-parts/header/navigation.php:14, ../qreate/template-parts/header/verticle.php:216, ../qreate/template-parts/header/verticle.php:246
+msgid "Main menu"
+msgstr ""
+
+#: ../qreate/template-parts/header/navigation.php:48, ../qreate/template-parts/header/navigation.php:42, ../qreate/template-parts/header/navigation.php:36, ../qreate/template-parts/header/navigation.php:27, ../qreate/template-parts/header/verticle.php:70, ../qreate/template-parts/header/verticle.php:64, ../qreate/template-parts/header/verticle.php:58, ../qreate/template-parts/header/verticle.php:49, ../qreate/inc/Redux_Framework/Options/Logo.php:67
+msgid "qreate"
+msgstr ""
+
+#: ../qreate/template-parts/header/navigation.php:52, ../qreate/template-parts/header/verticle.php:218
+msgid "Open menu"
+msgstr ""
+
+#: ../qreate/template-parts/header/navigation.php:57
+msgid "Menu"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:83
+msgid "fb"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:84
+msgid "tw"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:85
+msgid "g+"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:86
+msgid "gh"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:87
+msgid "in"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:88
+msgid "ln"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:89
+msgid "tl"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:90
+msgid "pt"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:91
+msgid "db"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:92
+msgid "rd"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:93
+msgid "fc"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:94, ../qreate/template-parts/header/verticle.php:106
+msgid "sp"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:95
+msgid "yt"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:96
+msgid "vm"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:97
+msgid "sc"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:98
+msgid "wc"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:99
+msgid "rr"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:100
+msgid "wb"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:101
+msgid "xi"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:102
+msgid "qq"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:103
+msgid "rs"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:104
+msgid "vk"
+msgstr ""
+
+#: ../qreate/template-parts/header/verticle.php:105
+msgid "bh"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/cart-empty.php:35
+msgid "Return to shop"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/cart.php:30, ../qreate/woocommerce/cart/cart.php:78
+msgid "Product"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/cart.php:31, ../qreate/woocommerce/cart/cart.php:98
+msgid "Price"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/cart.php:33, ../qreate/woocommerce/cart/cart.php:126
+msgid "Subtotal"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/cart.php:57
+msgid "Remove this item"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/cart.php:93
+msgid "Available on backorder"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/cart.php:144
+msgid "Coupon:"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/cart.php:146, ../qreate/woocommerce/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/cart.php:149, ../qreate/woocommerce/cart/cart.php:151, ../qreate/woocommerce/checkout/form-coupon.php:38, ../qreate/woocommerce/checkout/form-coupon.php:39
+msgid "Apply coupon"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/cart.php:161, ../qreate/woocommerce/cart/cart.php:162
+msgid "Update cart"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to checkout"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/shipping-calculator.php:32
+msgid "Select a country / region&hellip;"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/shipping-calculator.php:72, ../qreate/woocommerce/cart/shipping-calculator.php:59, ../qreate/woocommerce/cart/shipping-calculator.php:53
+msgid "State / County"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/shipping-calculator.php:60
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/shipping-calculator.php:83
+msgid "City"
+msgstr ""
+
+#: ../qreate/woocommerce/cart/shipping-calculator.php:92
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: ../qreate/woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../qreate/woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
+
+#: ../qreate/woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../qreate/woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../qreate/woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: ../qreate/woocommerce/checkout/payment.php:33
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: ../qreate/woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+#: ../qreate/woocommerce/checkout/payment.php:42
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: ../qreate/woocommerce/checkout/payment.php:46, ../qreate/woocommerce/checkout/payment.php:47
+msgid "Update totals"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/downloads.php:41, ../qreate/woocommerce/myaccount/orders.php:119
+msgid "Browse products"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/downloads.php:43
+msgid "No downloads available yet."
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-edit-account.php:31
+msgid "Last name"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-edit-account.php:37
+msgid "Display name"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-edit-account.php:38
+msgid "This will be how your name will be displayed in the account section and in reviews"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-edit-account.php:43, ../qreate/woocommerce/myaccount/form-login.php:104
+msgid "Email address"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-edit-account.php:48
+msgid "Password change"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-edit-account.php:51
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-edit-account.php:55
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-edit-account.php:59
+msgid "Confirm new password"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-edit-account.php:70, ../qreate/woocommerce/myaccount/form-edit-account.php:71
+msgid "Save changes"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-edit-address.php:20, ../qreate/woocommerce/myaccount/my-address.php:32, ../qreate/woocommerce/myaccount/my-address.php:27, ../qreate/woocommerce/order/order-details-customer.php:31
+msgid "Billing address"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-edit-address.php:20, ../qreate/woocommerce/myaccount/my-address.php:28, ../qreate/woocommerce/order/order-details-customer.php:50
+msgid "Shipping address"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-edit-address.php:48, ../qreate/woocommerce/myaccount/form-edit-address.php:49
+msgid "Save address"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-login.php:33
+msgid "Login"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-login.php:40
+msgid "Username or email address"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-login.php:47, ../qreate/woocommerce/myaccount/form-login.php:114
+msgid "Password"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-login.php:58
+msgid "Remember me"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-login.php:64, ../qreate/woocommerce/myaccount/form-login.php:65
+msgid "Log in"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-login.php:70
+msgid "Lost your password?"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-login.php:84, ../qreate/woocommerce/myaccount/form-login.php:128, ../qreate/woocommerce/myaccount/form-login.php:129
+msgid "Register"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-login.php:94
+msgid "Username"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-lost-password.php:25
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-lost-password.php:29
+msgid "Username or email"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/form-lost-password.php:42, ../qreate/woocommerce/myaccount/form-lost-password.php:43
+msgid "Reset password"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/my-address.php:57
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/orders.php:121
+msgid "No order has been made yet."
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/orders.php:67
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../qreate/woocommerce/myaccount/orders.php:54
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/orders.php:98
+msgid "Previous"
+msgstr ""
+
+#: ../qreate/woocommerce/myaccount/orders.php:107
+msgid "Next"
+msgstr ""
+
+#: ../qreate/woocommerce/order/order-details-customer.php:34, ../qreate/woocommerce/order/order-details-customer.php:52
+msgid "N/A"
+msgstr ""
+
+#: ../qreate/woocommerce/order/order-downloads.php:24
+msgid "Downloads"
+msgstr ""
+
+#: ../qreate/woocommerce/order/order-downloads.php:56
+msgid "&infin;"
+msgstr ""
+
+#: ../qreate/woocommerce/order/order-downloads.php:62
+msgid "Never"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/AdditionalCode.php:21
+msgid "Additional Code"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/AdditionalCode.php:24
+msgid "This section contains options for header."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/AdditionalCode.php:30
+msgid "CSS Code"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/AdditionalCode.php:31
+msgid "Paste your css code here."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/AdditionalCode.php:33
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/AdditionalCode.php:39
+msgid "JS Code"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/AdditionalCode.php:40
+msgid "Paste your js code in footer."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/AdditionalCode.php:43
+msgid "Paste your custom JS code here."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:25
+msgid "Page Banner Setting"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:28
+msgid "This section contains options for Page Breadcrumbs Area."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:34
+msgid "Default Banner Image"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:36
+msgid "Upload default banner image for your Website. Default will be blank."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:36
+msgid "(Note:Only Display Banner Style Second & Third)"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:41
+msgid "Select Banner Style"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:42
+msgid "Select the style that best fits your needs."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:74
+msgid "Display Banner on inner Pages"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:76, ../qreate/inc/Redux_Framework/Options/Banner.php:87, ../qreate/inc/Redux_Framework/Options/Banner.php:103, ../qreate/inc/Redux_Framework/Options/Footer.php:44, ../qreate/inc/Redux_Framework/Options/Footer.php:56, ../qreate/inc/Redux_Framework/Options/Footer.php:90, ../qreate/inc/Redux_Framework/Options/Footer.php:121, ../qreate/inc/Redux_Framework/Options/Footer.php:208, ../qreate/inc/Redux_Framework/Options/General.php:95, ../qreate/inc/Redux_Framework/Options/Header.php:312, ../qreate/inc/Redux_Framework/Options/Header.php:338, ../qreate/inc/Redux_Framework/Options/Loader.php:31, ../qreate/inc/Redux_Framework/Options/Styles.php:34
+msgid "Yes"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:77, ../qreate/inc/Redux_Framework/Options/Banner.php:88, ../qreate/inc/Redux_Framework/Options/Banner.php:104, ../qreate/inc/Redux_Framework/Options/Footer.php:45, ../qreate/inc/Redux_Framework/Options/Footer.php:57, ../qreate/inc/Redux_Framework/Options/Footer.php:91, ../qreate/inc/Redux_Framework/Options/Footer.php:122, ../qreate/inc/Redux_Framework/Options/Footer.php:209, ../qreate/inc/Redux_Framework/Options/General.php:96, ../qreate/inc/Redux_Framework/Options/Header.php:313, ../qreate/inc/Redux_Framework/Options/Header.php:339, ../qreate/inc/Redux_Framework/Options/Loader.php:32, ../qreate/inc/Redux_Framework/Options/Styles.php:35
+msgid "No"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:79, ../qreate/inc/Redux_Framework/Options/Banner.php:95, ../qreate/inc/Redux_Framework/Options/Banner.php:111, ../qreate/inc/Redux_Framework/Options/Footer.php:124, ../qreate/inc/Redux_Framework/Options/Footer.php:211, ../qreate/inc/Redux_Framework/Options/General.php:98, ../qreate/inc/Redux_Framework/Options/Header.php:279, ../qreate/inc/Redux_Framework/Options/Loader.php:34
+msgid "yes"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:85
+msgid "Display Breadcrumbs on Banner"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:101
+msgid "Display Breadcrumbs on Title"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:118
+msgid "Select Breadcrumbs Title Tag"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:139
+msgid "Set Title Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:153
+msgid "Banner Background Type"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:165, ../qreate/inc/Redux_Framework/Options/General.php:63
+msgid "Set Body Image"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:168, ../qreate/inc/Redux_Framework/Options/General.php:66
+msgid "Upload Image for your body."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:175, ../qreate/inc/Redux_Framework/Options/Header.php:92, ../qreate/inc/Redux_Framework/Options/Header.php:429
+msgid "Set Background Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:184
+msgid "Background Opacity Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:188
+msgid "Select this option for Background Opacity Color."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:201
+msgid "Background Gradient Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Banner.php:203
+msgid "Choose body Gradient background color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:28
+msgid "General Blogs"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:31
+msgid "This section contains options for blog."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:38
+msgid "Blog Page Default Banner Image"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:40, ../qreate/inc/Redux_Framework/Options/FourZeroFour.php:37
+msgid "Upload banner image for your Website. Otherwise blank field will be displayed in place of this section."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:40
+msgid "(Note:Only Display Banner Style Second & Third in Page Banner Setting)"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:46
+msgid "Blog page Setting"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:47
+msgid "<br />Choose among these structures (Right Sidebar, Left Sidebar, 1column, 2column and 3column) for your blog section.<br />To filling these column sections you should go to appearance > widget.<br />And put every widget that you want in these sections."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:49
+msgid "One Columns"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:50
+msgid "Two Columns"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:51
+msgid "Three Columns"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:52, ../qreate/inc/Redux_Framework/Options/Blog.php:97, ../qreate/inc/Redux_Framework/Options/Page.php:32
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:53, ../qreate/inc/Redux_Framework/Options/Blog.php:98, ../qreate/inc/Redux_Framework/Options/Page.php:33
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:61
+msgid "Previous/Next Pagination"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:62
+msgid "Turn on to display the previous/next post pagination for blog page."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:64, ../qreate/inc/Redux_Framework/Options/Blog.php:76, ../qreate/inc/Redux_Framework/Options/Blog.php:109, ../qreate/inc/Redux_Framework/Options/Header.php:276, ../qreate/inc/Redux_Framework/Options/Header.php:405
+msgid "On"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:65, ../qreate/inc/Redux_Framework/Options/Blog.php:77, ../qreate/inc/Redux_Framework/Options/Blog.php:110, ../qreate/inc/Redux_Framework/Options/Header.php:277, ../qreate/inc/Redux_Framework/Options/Header.php:406
+msgid "Off"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:73
+msgid "Featured Image on Blog Archive Page"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:74
+msgid "Turn on to display featured images on the blog or archive pages."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:85
+msgid "Blog Single Post"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:93
+msgid "Blog Single page Setting"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:94
+msgid "<br />Choose among these structures (Right Sidebar, Left Sidebar and 1column) for your blog section.<br />To filling these column sections you should go to appearance > widget.<br />And put every widget that you want in these sections."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:96, ../qreate/inc/Redux_Framework/Options/Page.php:31
+msgid "Full Width"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:106
+msgid "Comments"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Blog.php:107
+msgid "Turn on to display comments."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Color.php:21
+msgid "Color Attribute"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Color.php:24
+msgid "Change the default colors of your site."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Color.php:29
+msgid "Set Custom Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Color.php:40
+msgid "Set Primary Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Color.php:41
+msgid "Select primary accent color."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Color.php:50
+msgid "Set Secondary Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Color.php:51
+msgid "Select secondary complementing color."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Color.php:60
+msgid "Title Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Color.php:61
+msgid "Select default Title(Headings) color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Color.php:71
+msgid "Body Text Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Color.php:72
+msgid "Select default body text color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Color.php:82
+msgid "Tertiary Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Color.php:83
+msgid "Select default Tertiary Background color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Color.php:92
+msgid "Light Tertiary Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Color.php:93
+msgid "Select default Light Tertiary Background color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Contact.php:21
+msgid "Contact"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Contact.php:29
+msgid "Address"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Contact.php:30
+msgid "1234 North Avenue Luke Lane, South Bend, IN 360001"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Contact.php:36
+msgid "Phone"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Contact.php:41
+msgid "+0123456789"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Contact.php:49
+msgid "custom error message"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Contact.php:50
+msgid "support@example.com"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:25
+msgid "Footer"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:32
+msgid "Footer Image"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:35, ../qreate/inc/Redux_Framework/Options/Footer.php:112
+msgid "This section contains options for footer."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:41
+msgid "Display Footer Background Image"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:42
+msgid "Display Footer Background Image On All page"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:53
+msgid "Display Footer Logo"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:54
+msgid "Display Footer Logo On All page"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:66
+msgid "Footer Logo"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:69
+msgid "Upload Footer Logo for your Website."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:77
+msgid "Footer Background Image"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:80
+msgid "Upload Footer image for your Website."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:87
+msgid "Change Footer Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:88
+msgid "Turn on to Change Footer Background Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:99
+msgid "Choose Footer Background Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:109
+msgid "Footer Option"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:118
+msgid "Display Footer Top"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:119
+msgid "Display Footer Top On All page"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:130
+msgid "Footer Layout Type"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:132
+msgid "<br />Choose among these structures (1column, 2column and 3column) for your footer section.<br />To fill these column sections you should go to appearance > widget.<br />And add widgets as per your needs."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:134
+msgid "Footer Layout 1"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:135
+msgid "Footer Layout 2"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:136
+msgid "Footer Layout 3"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:137
+msgid "Footer Layout 4"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:138
+msgid "Footer Layout 5"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:146
+msgid "Select 1 Footer Alignment"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:159
+msgid "Select 2 Footer Alignment"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:172
+msgid "Select 3 Footer Alignment"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:185
+msgid "Select 4 Footer Alignment"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:198
+msgid "Footer Copyright"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:206
+msgid "Display Copyrights"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:217
+msgid "Copyrights Alignment"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:231
+msgid "Copyrights Text"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Footer.php:232
+msgid "© 2021 Qreate. All Rights Reserved."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/FourZeroFour.php:27
+msgid "This section contains options for 404."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/FourZeroFour.php:34
+msgid "404 Page Default Banner Image"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/FourZeroFour.php:43
+msgid "404 Page Title"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/FourZeroFour.php:49
+msgid "404 Page Description"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/General.php:20
+msgid "General"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/General.php:27
+msgid "Body Layout"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/General.php:39
+msgid "Grid Container Width"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/General.php:40
+msgid "Adjust Your Site Container Width With Help Of Above Option."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/General.php:49
+msgid "Body Set Option"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/General.php:50
+msgid "Select this option for body color or image of the theme."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/General.php:72
+msgid "Set Body Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/General.php:73
+msgid "Choose Body Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/General.php:84
+msgid "Back to Top"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/General.php:92
+msgid "\"Back to top\" Button"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/General.php:93
+msgid "Turn on to show \"Back to top\" button."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:25
+msgid "Header"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:32
+msgid "Menu Layout"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:46
+msgid "Header Style"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:47
+msgid "Select the design variation that you want to use for site menu."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:64
+msgid "Header container"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:66
+msgid "full width"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:67
+msgid "Container"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:69
+msgid "container"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:78, ../qreate/inc/Redux_Framework/Options/Header.php:415
+msgid "Background"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:79
+msgid "Select the variation for header background"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:81, ../qreate/inc/Redux_Framework/Options/Header.php:117, ../qreate/inc/Redux_Framework/Options/Header.php:156, ../qreate/inc/Redux_Framework/Options/Header.php:198, ../qreate/inc/Redux_Framework/Options/Header.php:290, ../qreate/inc/Redux_Framework/Options/Header.php:355, ../qreate/inc/Redux_Framework/Options/Header.php:418
+msgid "Default"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:82, ../qreate/inc/Redux_Framework/Options/Header.php:419
+msgid "Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:83, ../qreate/inc/Redux_Framework/Options/Header.php:420
+msgid "Image"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:84, ../qreate/inc/Redux_Framework/Options/Header.php:421
+msgid "Transparent"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:86, ../qreate/inc/Redux_Framework/Options/Header.php:120, ../qreate/inc/Redux_Framework/Options/Header.php:159, ../qreate/inc/Redux_Framework/Options/Header.php:201, ../qreate/inc/Redux_Framework/Options/Header.php:293
+msgid "default"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:102, ../qreate/inc/Redux_Framework/Options/Header.php:439
+msgid "Upload Image"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:105
+msgid "Upload background image for header."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:114
+msgid "Menu Color Options"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:115
+msgid "Select Menu color ."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:118, ../qreate/inc/Redux_Framework/Options/Header.php:157, ../qreate/inc/Redux_Framework/Options/Header.php:199, ../qreate/inc/Redux_Framework/Options/Header.php:291, ../qreate/inc/Redux_Framework/Options/Header.php:356
+msgid "Custom"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:126
+msgid "Menu Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:135
+msgid "Active Menu Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:144
+msgid "Menu Hover Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:153
+msgid "Submenu Color Options"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:154
+msgid "Select submenu color."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:165
+msgid "Submenu Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:174
+msgid "Active Submenu Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:183
+msgid "Submenu Hover Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:195
+msgid "Responsive Menu Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:196
+msgid "Select menu color for responsive mode."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:208
+msgid "Toggle Icon color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:217
+msgid "Model Background color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:226
+msgid "Responsive menu color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:235
+msgid "Responsive menu hover color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:244
+msgid "Responsive menu active color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:253
+msgid "Responsive menu background Hover color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:262
+msgid "Responsive menu active background color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:273
+msgid "Display Search Icon"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:274
+msgid "Turn on to display the Search in header."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:287
+msgid "Search Icon"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:288
+msgid "Turn on to display the Search color in header."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:299
+msgid "Icon color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:301
+msgid "Select for button color options."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:309
+msgid "Shop & Wishlist Button"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:310
+msgid "Turn on to display Shop & Wishlist Button in header."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:315
+msgid "no"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:324
+msgid "Choose Wishlist Page"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:325
+msgid "Select Page that you want to display wishlist items"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:334, ../qreate/inc/Redux_Framework/Options/SocialMedia.php:20
+msgid "Social Media"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:335
+msgid "Turn on to display Social Media in header."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:352
+msgid "Icon color options"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:353
+msgid "Select icon color for normal and hover ."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:364
+msgid "Choose Icon color for header."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:376
+msgid "Choose Icon hover color for header."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:392, ../qreate/inc/Redux_Framework/Options/Header.php:401
+msgid "Sticky Header"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:402
+msgid "Turn on to display sticky header for responsive."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:416
+msgid "Select the variation for sticky header background"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Header.php:442
+msgid "Upload background image for sticky header."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Loader.php:20
+msgid "Loader"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Loader.php:28
+msgid "qreate Loader"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Loader.php:40
+msgid "Loader Background Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Loader.php:42
+msgid "Choose Loader Background Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Loader.php:51
+msgid "Add GIF image for loader"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Loader.php:55
+msgid "Upload Loader GIF image for your Website."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Loader.php:64
+msgid "Loader (Width/Height) Option"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Loader.php:65, ../qreate/inc/Redux_Framework/Options/Logo.php:55
+msgid "Allows you to choose width, height, and/or unit."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Loader.php:66, ../qreate/inc/Redux_Framework/Options/Logo.php:56
+msgid "You can enable or disable any piece of this field. Width, Height, or Units."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Logo.php:20, ../qreate/inc/Redux_Framework/Options/Logo.php:41
+msgid "Logo"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Logo.php:28
+msgid "Select Logo Type"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Logo.php:29
+msgid "Select either Text or image for your Logo."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Logo.php:45
+msgid "Upload Logo image for your Website. Otherwise site title will be displayed in place of Logo."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Logo.php:53
+msgid "Logo (Width/Height) Option"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Logo.php:63
+msgid "Logo Text"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Logo.php:64
+msgid "Enter the text to be used instead of the logo image"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Logo.php:66
+msgid "Please enter correct value"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Logo.php:73
+msgid "Text Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Logo.php:74
+msgid "Choose Text Color"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Page.php:20
+msgid "Page Settings"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Page.php:28
+msgid "Search page Setting"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Page.php:29
+msgid "<br />Choose among these structures (Right Sidebar, Left Sidebar and 1column) for your Search page.<br />To filling these column sections you should go to appearance > widget.<br />And put every widget that you want in these sections."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/SocialMedia.php:28
+msgid "Social Media Option"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/SocialMedia.php:29
+msgid "Enter social media url."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Styles.php:23
+msgid "Typography"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Styles.php:26
+msgid "This section contains typography related options."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Styles.php:32
+msgid "Do you want to change fonts?"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Styles.php:33
+msgid "0"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Styles.php:41
+msgid "Body Font"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Styles.php:42, ../qreate/inc/Redux_Framework/Options/Styles.php:62, ../qreate/inc/Redux_Framework/Options/Styles.php:81, ../qreate/inc/Redux_Framework/Options/Styles.php:100, ../qreate/inc/Redux_Framework/Options/Styles.php:118, ../qreate/inc/Redux_Framework/Options/Styles.php:136, ../qreate/inc/Redux_Framework/Options/Styles.php:154
+msgid "Select the font."
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Styles.php:53
+msgid "Poppins"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Styles.php:61
+msgid "H1 Font"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Styles.php:72, ../qreate/inc/Redux_Framework/Options/Styles.php:91, ../qreate/inc/Redux_Framework/Options/Styles.php:110, ../qreate/inc/Redux_Framework/Options/Styles.php:128, ../qreate/inc/Redux_Framework/Options/Styles.php:146, ../qreate/inc/Redux_Framework/Options/Styles.php:164
+msgid "PT+Sans"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Styles.php:80
+msgid "H2 Font"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Styles.php:99
+msgid "H3 Font"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Styles.php:117
+msgid "H4 Font"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Styles.php:135
+msgid "H5 Font"
+msgstr ""
+
+#: ../qreate/inc/Redux_Framework/Options/Styles.php:153
+msgid "H6 Font"
+msgstr ""
